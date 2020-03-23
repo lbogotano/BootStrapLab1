@@ -7,10 +7,10 @@ body {
 h1 {
     box-shadow: 20px 20px yellowgreen;
 }
-
-.container row{
-    align-content: center;
+.playerCards {
+    justify-content: space-between;
 }
+
   
 
   /* animations for header */
